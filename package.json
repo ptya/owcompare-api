@@ -1,0 +1,31 @@
+{
+  "name": "owcompare-api",
+  "version": "1.0.0",
+  "main": "app.js",
+  "author": "psz",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "compression": "^1.7.3",
+    "cookie-parser": "^1.4.3",
+    "cors": "^2.8.4",
+    "dotenv-safe": "^6.0.0",
+    "express": "^4.16.3",
+    "express-validator": "^5.3.0",
+    "extend": "^3.0.2",
+    "helmet": "^3.13.0",
+    "http-errors": "^1.7.1",
+    "morgan": "^1.9.1",
+    "request": "^2.88.0",
+    "request-promise": "^4.2.2"
+  },
+  "devDependencies": {
+    "babel-eslint": "^10.0.1",
+    "eslint": "^5.6.0",
+    "eslint-config-airbnb-base": "^13.1.0",
+    "eslint-config-prettier": "^3.1.0",
+    "eslint-plugin-import": "^2.14.0",
+    "eslint-plugin-prettier": "^2.7.0",
+    "prettier": "^1.14.3"
+  }
+}
