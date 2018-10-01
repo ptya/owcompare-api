@@ -2,7 +2,8 @@ const path = require('path');
 
 require('dotenv-safe').load({
   path: path.resolve(process.cwd(), '.env'),
-  example: path.resolve(process.cwd(), '.env.sample'),
+  example: path.resolve(process.cwd(), '.env.example'),
+  allowEmptyValues: true,
 });
 
 const configs = {

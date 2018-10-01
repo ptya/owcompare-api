@@ -1,8 +1,8 @@
 const express = require('express');
 
 const router = express.Router();
-// const example = require('./_example');
+const tester = require('./tester');
 
-// router.use('/example', example);
+router.use('/tester', tester);
 
 module.exports = router;

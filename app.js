@@ -10,7 +10,6 @@ const routes = require('./routes');
 const { logs } = require('./configs');
 
 const app = express();
-
 /**
  * Connect to MongoDB.
  */
@@ -72,11 +71,7 @@ app.use(error.handler);
  * Start Express server.
  */
 app.listen(app.get('port'), () => {
-  console.log(
-    '%s App is running at http://localhost:%d in %s mode',
-    app.get('port'),
-    app.get('env')
-  );
+  console.log('App is running at http://localhost:%s in %s mode', app.get('port'), app.get('env'));
   console.log('  Press CTRL-C to stop\n');
 });
 
