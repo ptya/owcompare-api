@@ -67,12 +67,4 @@ app.use('/', routes);
 // error handler
 app.use(error.handler);
 
-/**
- * Start Express server.
- */
-app.listen(app.get('port'), () => {
-  console.log('App is running at http://localhost:%s in %s mode', app.get('port'), app.get('env'));
-  console.log('  Press CTRL-C to stop\n');
-});
-
 module.exports = app;
