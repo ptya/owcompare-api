@@ -40,4 +40,4 @@ heroSchema.pre('save', async function(next) {
   next();
 });
 
-module.exports = mongoose.model('Hero', heroSchema);
+module.exports = mongoose.model('Hero', heroSchema, 'heroes');

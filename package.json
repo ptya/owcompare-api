@@ -32,6 +32,8 @@
     "prettier": "^1.14.3"
   },
   "scripts": {
-    "dev": "./node_modules/.bin/nodemon ./start.js"
+    "dev": "./node_modules/.bin/nodemon ./start.js",
+    "sample": "node ./data/load-data.js",
+    "purge": "node ./data/load-data.js --delete"
   }
 }

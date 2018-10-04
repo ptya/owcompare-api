@@ -1,0 +1,673 @@
+[{
+        "_id": "5bb5f38d5129ce1cbce939a4",
+        "primaryHero": "5bb5dbb63e61cd4c289400d0",
+        "secondaryHero": [],
+        "score": 20
+    },
+    {
+        "_id": "5bb5f38d5129ce1cbce939a5",
+        "primaryHero": "5bb5dbb63e61cd4c289400d1",
+        "secondaryHero": ["5bb5dbb63e61cd4c289400e0", "5bb5dbb63e61cd4c289400e8"],
+        "score": 20
+    },
+    {
+        "_id": "5bb5f38d5129ce1cbce939a6",
+        "primaryHero": "5bb5dbb63e61cd4c289400d2",
+        "secondaryHero": ["5bb5dbb63e61cd4c289400e9"],
+        "score": 20
+    },
+    {
+        "_id": "5bb5f38d5129ce1cbce939a7",
+        "primaryHero": "5bb5dbb63e61cd4c289400d3",
+        "secondaryHero": ["5bb5dbb63e61cd4c289400d6", "5bb5dbb63e61cd4c289400db", "5bb5dbb63e61cd4c289400e7"],
+        "score": 20
+    },
+    {
+        "_id": "5bb5f38d5129ce1cbce939a8",
+        "primaryHero": "5bb5dbb63e61cd4c289400d4",
+        "secondaryHero": [],
+        "score": 20
+    },
+    {
+        "_id": "5bb5f38d5129ce1cbce939a9",
+        "primaryHero": "5bb5dbb63e61cd4c289400d5",
+        "secondaryHero": ["5bb5dbb63e61cd4c289400d6", "5bb5dbb63e61cd4c289400db", "5bb5dbb63e61cd4c289400e7"],
+        "score": 20
+    },
+    {
+        "_id": "5bb5f38d5129ce1cbce939aa",
+        "primaryHero": "5bb5dbb63e61cd4c289400d6",
+        "secondaryHero": ["5bb5dbb63e61cd4c289400e5"],
+        "score": 20
+    },
+    {
+        "_id": "5bb5f38d5129ce1cbce939ab",
+        "primaryHero": "5bb5dbb63e61cd4c289400d7",
+        "secondaryHero": ["5bb5dbb63e61cd4c289400e0", "5bb5dbb63e61cd4c289400e5"],
+        "score": 20
+    },
+    {
+        "_id": "5bb5f38d5129ce1cbce939ac",
+        "primaryHero": "5bb5dbb63e61cd4c289400d8",
+        "secondaryHero": [],
+        "score": 20
+    },
+    {
+        "_id": "5bb5f38d5129ce1cbce939ad",
+        "primaryHero": "5bb5dbb63e61cd4c289400d9",
+        "secondaryHero": ["5bb5dbb63e61cd4c289400d8", "5bb5dbb63e61cd4c289400de", "5bb5dbb63e61cd4c289400e6"],
+        "score": 20
+    },
+    {
+        "_id": "5bb5f38d5129ce1cbce939ae",
+        "primaryHero": "5bb5dbb63e61cd4c289400da",
+        "secondaryHero": ["5bb5dbb63e61cd4c289400e0", "5bb5dbb63e61cd4c289400e1"],
+        "score": 20
+    },
+    {
+        "_id": "5bb5f38d5129ce1cbce939af",
+        "primaryHero": "5bb5dbb63e61cd4c289400db",
+        "secondaryHero": [],
+        "score": 20
+    },
+    {
+        "_id": "5bb5f38d5129ce1cbce939b0",
+        "primaryHero": "5bb5dbb63e61cd4c289400dc",
+        "secondaryHero": [],
+        "score": 20
+    },
+    {
+        "_id": "5bb5f38d5129ce1cbce939b1",
+        "primaryHero": "5bb5dbb63e61cd4c289400dd",
+        "secondaryHero": [],
+        "score": 20
+    },
+    {
+        "_id": "5bb5f38d5129ce1cbce939b2",
+        "primaryHero": "5bb5dbb63e61cd4c289400de",
+        "secondaryHero": ["5bb5dbb63e61cd4c289400d2", "5bb5dbb63e61cd4c289400d4", "5bb5dbb63e61cd4c289400d7", "5bb5dbb63e61cd4c289400df", "5bb5dbb63e61cd4c289400e0", "5bb5dbb63e61cd4c289400e4", "5bb5dbb63e61cd4c289400ea"],
+        "score": 20
+    },
+    {
+        "_id": "5bb5f38d5129ce1cbce939b3",
+        "primaryHero": "5bb5dbb63e61cd4c289400df",
+        "secondaryHero": ["5bb5dbb63e61cd4c289400e0", "5bb5dbb63e61cd4c289400e1", "5bb5dbb63e61cd4c289400e8", "5bb5dbb63e61cd4c289400eb"],
+        "score": 20
+    },
+    {
+        "_id": "5bb5f38d5129ce1cbce939b4",
+        "primaryHero": "5bb5dbb63e61cd4c289400e0",
+        "secondaryHero": [],
+        "score": 20
+    },
+    {
+        "_id": "5bb5f38d5129ce1cbce939b5",
+        "primaryHero": "5bb5dbb63e61cd4c289400e1",
+        "secondaryHero": ["5bb5dbb63e61cd4c289400e8"],
+        "score": 20
+    },
+    {
+        "_id": "5bb5f38d5129ce1cbce939b6",
+        "primaryHero": "5bb5dbb63e61cd4c289400e2",
+        "secondaryHero": ["5bb5dbb63e61cd4c289400e5"],
+        "score": 20
+    },
+    {
+        "_id": "5bb5f38d5129ce1cbce939b7",
+        "primaryHero": "5bb5dbb63e61cd4c289400e3",
+        "secondaryHero": ["5bb5dbb63e61cd4c289400d4", "5bb5dbb63e61cd4c289400e6", "5bb5dbb63e61cd4c289400e9"],
+        "score": 20
+    },
+    {
+        "_id": "5bb5f38d5129ce1cbce939b8",
+        "primaryHero": "5bb5dbb63e61cd4c289400e4",
+        "secondaryHero": [],
+        "score": 20
+    },
+    {
+        "_id": "5bb5f38d5129ce1cbce939b9",
+        "primaryHero": "5bb5dbb63e61cd4c289400e5",
+        "secondaryHero": [],
+        "score": 20
+    },
+    {
+        "_id": "5bb5f38d5129ce1cbce939ba",
+        "primaryHero": "5bb5dbb63e61cd4c289400e6",
+        "secondaryHero": ["5bb5dbb63e61cd4c289400d6", "5bb5dbb63e61cd4c289400eb"],
+        "score": 20
+    },
+    {
+        "_id": "5bb5f38d5129ce1cbce939bb",
+        "primaryHero": "5bb5dbb63e61cd4c289400e7",
+        "secondaryHero": ["5bb5dbb63e61cd4c289400d7", "5bb5dbb63e61cd4c289400de", "5bb5dbb63e61cd4c289400e5"],
+        "score": 20
+    },
+    {
+        "_id": "5bb5f38d5129ce1cbce939bc",
+        "primaryHero": "5bb5dbb63e61cd4c289400e8",
+        "secondaryHero": ["5bb5dbb63e61cd4c289400d5", "5bb5dbb63e61cd4c289400e4", "5bb5dbb63e61cd4c289400e7", "5bb5dbb63e61cd4c289400eb"],
+        "score": 20
+    },
+    {
+        "_id": "5bb5f38d5129ce1cbce939bd",
+        "primaryHero": "5bb5dbb63e61cd4c289400e9",
+        "secondaryHero": [],
+        "score": 20
+    },
+    {
+        "_id": "5bb5f38d5129ce1cbce939be",
+        "primaryHero": "5bb5dbb63e61cd4c289400ea",
+        "secondaryHero": ["5bb5dbb63e61cd4c289400d3", "5bb5dbb63e61cd4c289400d5", "5bb5dbb63e61cd4c289400e5"],
+        "score": 20
+    },
+    {
+        "_id": "5bb5f38d5129ce1cbce939bf",
+        "primaryHero": "5bb5dbb63e61cd4c289400eb",
+        "secondaryHero": [],
+        "score": 20
+    },
+    {
+        "_id": "5bb5f38d5129ce1cbce939c0",
+        "primaryHero": "5bb5dbb63e61cd4c289400d0",
+        "secondaryHero": ["5bb5dbb63e61cd4c289400d1", "5bb5dbb63e61cd4c289400d8", "5bb5dbb63e61cd4c289400dc", "5bb5dbb63e61cd4c289400de", "5bb5dbb63e61cd4c289400e5", "5bb5dbb63e61cd4c289400e9", "5bb5dbb63e61cd4c289400eb"],
+        "score": 10
+    },
+    {
+        "_id": "5bb5f38d5129ce1cbce939c1",
+        "primaryHero": "5bb5dbb63e61cd4c289400d1",
+        "secondaryHero": ["5bb5dbb63e61cd4c289400ea"],
+        "score": 10
+    },
+    {
+        "_id": "5bb5f38d5129ce1cbce939c2",
+        "primaryHero": "5bb5dbb63e61cd4c289400d2",
+        "secondaryHero": ["5bb5dbb63e61cd4c289400d3", "5bb5dbb63e61cd4c289400d5", "5bb5dbb63e61cd4c289400e0", "5bb5dbb63e61cd4c289400e6"],
+        "score": 10
+    },
+    {
+        "_id": "5bb5f38d5129ce1cbce939c3",
+        "primaryHero": "5bb5dbb63e61cd4c289400d3",
+        "secondaryHero": ["5bb5dbb63e61cd4c289400d1", "5bb5dbb63e61cd4c289400d9", "5bb5dbb63e61cd4c289400dc", "5bb5dbb63e61cd4c289400de"],
+        "score": 10
+    },
+    {
+        "_id": "5bb5f38d5129ce1cbce939c4",
+        "primaryHero": "5bb5dbb63e61cd4c289400d4",
+        "secondaryHero": ["5bb5dbb63e61cd4c289400e0", "5bb5dbb63e61cd4c289400d5", "5bb5dbb63e61cd4c289400d3"],
+        "score": 10
+    },
+    {
+        "_id": "5bb5f38d5129ce1cbce939c5",
+        "primaryHero": "5bb5dbb63e61cd4c289400d5",
+        "secondaryHero": ["5bb5dbb63e61cd4c289400d1", "5bb5dbb63e61cd4c289400dd"],
+        "score": 10
+    },
+    {
+        "_id": "5bb5f38d5129ce1cbce939c6",
+        "primaryHero": "5bb5dbb63e61cd4c289400d6",
+        "secondaryHero": ["5bb5dbb63e61cd4c289400d1", "5bb5dbb63e61cd4c289400dd", "5bb5dbb63e61cd4c289400e3"],
+        "score": 10
+    },
+    {
+        "_id": "5bb5f38d5129ce1cbce939c7",
+        "primaryHero": "5bb5dbb63e61cd4c289400d7",
+        "secondaryHero": ["5bb5dbb63e61cd4c289400d1", "5bb5dbb63e61cd4c289400d2", "5bb5dbb63e61cd4c289400d3", "5bb5dbb63e61cd4c289400df", "5bb5dbb63e61cd4c289400e3", "5bb5dbb63e61cd4c289400e6"],
+        "score": 10
+    },
+    {
+        "_id": "5bb5f38d5129ce1cbce939c8",
+        "primaryHero": "5bb5dbb63e61cd4c289400d8",
+        "secondaryHero": ["5bb5dbb63e61cd4c289400da"],
+        "score": 10
+    },
+    {
+        "_id": "5bb5f38d5129ce1cbce939c9",
+        "primaryHero": "5bb5dbb63e61cd4c289400d9",
+        "secondaryHero": ["5bb5dbb63e61cd4c289400d4", "5bb5dbb63e61cd4c289400db", "5bb5dbb63e61cd4c289400e3", "5bb5dbb63e61cd4c289400e4"],
+        "score": 10
+    },
+    {
+        "_id": "5bb5f38d5129ce1cbce939ca",
+        "primaryHero": "5bb5dbb63e61cd4c289400da",
+        "secondaryHero": ["5bb5dbb63e61cd4c289400d3", "5bb5dbb63e61cd4c289400d9", "5bb5dbb63e61cd4c289400e9"],
+        "score": 10
+    },
+    {
+        "_id": "5bb5f38d5129ce1cbce939cb",
+        "primaryHero": "5bb5dbb63e61cd4c289400db",
+        "secondaryHero": [],
+        "score": 10
+    },
+    {
+        "_id": "5bb5f38d5129ce1cbce939cc",
+        "primaryHero": "5bb5dbb63e61cd4c289400dc",
+        "secondaryHero": ["5bb5dbb63e61cd4c289400dd", "5bb5dbb63e61cd4c289400e0"],
+        "score": 10
+    },
+    {
+        "_id": "5bb5f38d5129ce1cbce939cd",
+        "primaryHero": "5bb5dbb63e61cd4c289400dd",
+        "secondaryHero": ["5bb5dbb63e61cd4c289400d4", "5bb5dbb63e61cd4c289400e5", "5bb5dbb63e61cd4c289400e7"],
+        "score": 10
+    },
+    {
+        "_id": "5bb5f38d5129ce1cbce939ce",
+        "primaryHero": "5bb5dbb63e61cd4c289400de",
+        "secondaryHero": ["5bb5dbb63e61cd4c289400d5", "5bb5dbb63e61cd4c289400da", "5bb5dbb63e61cd4c289400e6"],
+        "score": 10
+    },
+    {
+        "_id": "5bb5f38d5129ce1cbce939cf",
+        "primaryHero": "5bb5dbb63e61cd4c289400df",
+        "secondaryHero": ["5bb5dbb63e61cd4c289400d3", "5bb5dbb63e61cd4c289400dd", "5bb5dbb63e61cd4c289400e3", "5bb5dbb63e61cd4c289400e9", "5bb5dbb63e61cd4c289400ea"],
+        "score": 10
+    },
+    {
+        "_id": "5bb5f38d5129ce1cbce939d0",
+        "primaryHero": "5bb5dbb63e61cd4c289400e0",
+        "secondaryHero": ["5bb5dbb63e61cd4c289400e2", "5bb5dbb63e61cd4c289400e7"],
+        "score": 10
+    },
+    {
+        "_id": "5bb5f38d5129ce1cbce939d1",
+        "primaryHero": "5bb5dbb63e61cd4c289400e1",
+        "secondaryHero": ["5bb5dbb63e61cd4c289400d1", "5bb5dbb63e61cd4c289400d8", "5bb5dbb63e61cd4c289400d9", "5bb5dbb63e61cd4c289400e2", "5bb5dbb63e61cd4c289400e3", "5bb5dbb63e61cd4c289400e9"],
+        "score": 10
+    },
+    {
+        "_id": "5bb5f38d5129ce1cbce939d2",
+        "primaryHero": "5bb5dbb63e61cd4c289400e2",
+        "secondaryHero": ["5bb5dbb63e61cd4c289400d1", "5bb5dbb63e61cd4c289400d4", "5bb5dbb63e61cd4c289400de"],
+        "score": 10
+    },
+    {
+        "_id": "5bb5f38d5129ce1cbce939d3",
+        "primaryHero": "5bb5dbb63e61cd4c289400e3",
+        "secondaryHero": ["5bb5dbb63e61cd4c289400d2", "5bb5dbb63e61cd4c289400d3", "5bb5dbb63e61cd4c289400d8", "5bb5dbb63e61cd4c289400e0", "5bb5dbb63e61cd4c289400e4", "5bb5dbb63e61cd4c289400eb"],
+        "score": 10
+    },
+    {
+        "_id": "5bb5f38d5129ce1cbce939d4",
+        "primaryHero": "5bb5dbb63e61cd4c289400e4",
+        "secondaryHero": [],
+        "score": 10
+    },
+    {
+        "_id": "5bb5f38d5129ce1cbce939d5",
+        "primaryHero": "5bb5dbb63e61cd4c289400e5",
+        "secondaryHero": ["5bb5dbb63e61cd4c289400e6"],
+        "score": 10
+    },
+    {
+        "_id": "5bb5f38d5129ce1cbce939d6",
+        "primaryHero": "5bb5dbb63e61cd4c289400e6",
+        "secondaryHero": ["5bb5dbb63e61cd4c289400d1"],
+        "score": 10
+    },
+    {
+        "_id": "5bb5f38d5129ce1cbce939d7",
+        "primaryHero": "5bb5dbb63e61cd4c289400e7",
+        "secondaryHero": ["5bb5dbb63e61cd4c289400d1", "5bb5dbb63e61cd4c289400d6", "5bb5dbb63e61cd4c289400d9", "5bb5dbb63e61cd4c289400da"],
+        "score": 10
+    },
+    {
+        "_id": "5bb5f38d5129ce1cbce939d8",
+        "primaryHero": "5bb5dbb63e61cd4c289400e8",
+        "secondaryHero": ["5bb5dbb63e61cd4c289400d0", "5bb5dbb63e61cd4c289400d9"],
+        "score": 10
+    },
+    {
+        "_id": "5bb5f38d5129ce1cbce939d9",
+        "primaryHero": "5bb5dbb63e61cd4c289400e9",
+        "secondaryHero": ["5bb5dbb63e61cd4c289400e7"],
+        "score": 10
+    },
+    {
+        "_id": "5bb5f38d5129ce1cbce939da",
+        "primaryHero": "5bb5dbb63e61cd4c289400ea",
+        "secondaryHero": ["5bb5dbb63e61cd4c289400d7", "5bb5dbb63e61cd4c289400da", "5bb5dbb63e61cd4c289400e1"],
+        "score": 10
+    },
+    {
+        "_id": "5bb5f38d5129ce1cbce939db",
+        "primaryHero": "5bb5dbb63e61cd4c289400eb",
+        "secondaryHero": ["5bb5dbb63e61cd4c289400ea"],
+        "score": 10
+    },
+    {
+        "_id": "5bb5f38d5129ce1cbce939dc",
+        "primaryHero": "5bb5dbb63e61cd4c289400d0",
+        "secondaryHero": ["5bb5dbb63e61cd4c289400e8"],
+        "score": -10
+    },
+    {
+        "_id": "5bb5f38d5129ce1cbce939dd",
+        "primaryHero": "5bb5dbb63e61cd4c289400d1",
+        "secondaryHero": ["5bb5dbb63e61cd4c289400d0", "5bb5dbb63e61cd4c289400d3", "5bb5dbb63e61cd4c289400d5", "5bb5dbb63e61cd4c289400d6", "5bb5dbb63e61cd4c289400d7", "5bb5dbb63e61cd4c289400e1", "5bb5dbb63e61cd4c289400e2", "5bb5dbb63e61cd4c289400e6", "5bb5dbb63e61cd4c289400e7"],
+        "score": -10
+    },
+    {
+        "_id": "5bb5f38d5129ce1cbce939de",
+        "primaryHero": "5bb5dbb63e61cd4c289400d2",
+        "secondaryHero": ["5bb5dbb63e61cd4c289400d7", "5bb5dbb63e61cd4c289400df", "5bb5dbb63e61cd4c289400e3"],
+        "score": -10
+    },
+    {
+        "_id": "5bb5f38d5129ce1cbce939df",
+        "primaryHero": "5bb5dbb63e61cd4c289400d3",
+        "secondaryHero": ["5bb5dbb63e61cd4c289400d2", "5bb5dbb63e61cd4c289400d4", "5bb5dbb63e61cd4c289400d7", "5bb5dbb63e61cd4c289400da", "5bb5dbb63e61cd4c289400df", "5bb5dbb63e61cd4c289400e3"],
+        "score": -10
+    },
+    {
+        "_id": "5bb5f38d5129ce1cbce939e0",
+        "primaryHero": "5bb5dbb63e61cd4c289400d4",
+        "secondaryHero": ["5bb5dbb63e61cd4c289400e2", "5bb5dbb63e61cd4c289400dd", "5bb5dbb63e61cd4c289400d9"],
+        "score": -10
+    },
+    {
+        "_id": "5bb5f38d5129ce1cbce939e1",
+        "primaryHero": "5bb5dbb63e61cd4c289400d5",
+        "secondaryHero": ["5bb5dbb63e61cd4c289400d2", "5bb5dbb63e61cd4c289400d4", "5bb5dbb63e61cd4c289400de"],
+        "score": -10
+    },
+    {
+        "_id": "5bb5f38d5129ce1cbce939e2",
+        "primaryHero": "5bb5dbb63e61cd4c289400d6",
+        "secondaryHero": ["5bb5dbb63e61cd4c289400e8"],
+        "score": -10
+    },
+    {
+        "_id": "5bb5f38d5129ce1cbce939e3",
+        "primaryHero": "5bb5dbb63e61cd4c289400d7",
+        "secondaryHero": ["5bb5dbb63e61cd4c289400ea"],
+        "score": -10
+    },
+    {
+        "_id": "5bb5f38d5129ce1cbce939e4",
+        "primaryHero": "5bb5dbb63e61cd4c289400d8",
+        "secondaryHero": ["5bb5dbb63e61cd4c289400d0", "5bb5dbb63e61cd4c289400e1", "5bb5dbb63e61cd4c289400e3"],
+        "score": -10
+    },
+    {
+        "_id": "5bb5f38d5129ce1cbce939e5",
+        "primaryHero": "5bb5dbb63e61cd4c289400d9",
+        "secondaryHero": ["5bb5dbb63e61cd4c289400d3", "5bb5dbb63e61cd4c289400da", "5bb5dbb63e61cd4c289400e1", "5bb5dbb63e61cd4c289400e7", "5bb5dbb63e61cd4c289400e8"],
+        "score": -10
+    },
+    {
+        "_id": "5bb5f38d5129ce1cbce939e6",
+        "primaryHero": "5bb5dbb63e61cd4c289400da",
+        "secondaryHero": ["5bb5dbb63e61cd4c289400d8", "5bb5dbb63e61cd4c289400de", "5bb5dbb63e61cd4c289400e7", "5bb5dbb63e61cd4c289400ea"],
+        "score": -10
+    },
+    {
+        "_id": "5bb5f38d5129ce1cbce939e7",
+        "primaryHero": "5bb5dbb63e61cd4c289400db",
+        "secondaryHero": ["5bb5dbb63e61cd4c289400d9"],
+        "score": -10
+    },
+    {
+        "_id": "5bb5f38d5129ce1cbce939e8",
+        "primaryHero": "5bb5dbb63e61cd4c289400dc",
+        "secondaryHero": ["5bb5dbb63e61cd4c289400d0", "5bb5dbb63e61cd4c289400d3"],
+        "score": -10
+    },
+    {
+        "_id": "5bb5f38d5129ce1cbce939e9",
+        "primaryHero": "5bb5dbb63e61cd4c289400dd",
+        "secondaryHero": ["5bb5dbb63e61cd4c289400d5", "5bb5dbb63e61cd4c289400d6", "5bb5dbb63e61cd4c289400dc", "5bb5dbb63e61cd4c289400df"],
+        "score": -10
+    },
+    {
+        "_id": "5bb5f38d5129ce1cbce939ea",
+        "primaryHero": "5bb5dbb63e61cd4c289400de",
+        "secondaryHero": ["5bb5dbb63e61cd4c289400d0", "5bb5dbb63e61cd4c289400d3", "5bb5dbb63e61cd4c289400e2"],
+        "score": -10
+    },
+    {
+        "_id": "5bb5f38d5129ce1cbce939eb",
+        "primaryHero": "5bb5dbb63e61cd4c289400df",
+        "secondaryHero": ["5bb5dbb63e61cd4c289400d7"],
+        "score": -10
+    },
+    {
+        "_id": "5bb5f38d5129ce1cbce939ec",
+        "primaryHero": "5bb5dbb63e61cd4c289400e0",
+        "secondaryHero": ["5bb5dbb63e61cd4c289400d2", "5bb5dbb63e61cd4c289400d4", "5bb5dbb63e61cd4c289400dd", "5bb5dbb63e61cd4c289400e3"],
+        "score": -10
+    },
+    {
+        "_id": "5bb5f38d5129ce1cbce939ed",
+        "primaryHero": "5bb5dbb63e61cd4c289400e1",
+        "secondaryHero": ["5bb5dbb63e61cd4c289400ea"],
+        "score": -10
+    },
+    {
+        "_id": "5bb5f38d5129ce1cbce939ee",
+        "primaryHero": "5bb5dbb63e61cd4c289400e2",
+        "secondaryHero": ["5bb5dbb63e61cd4c289400e0"],
+        "score": -10
+    },
+    {
+        "_id": "5bb5f38d5129ce1cbce939ef",
+        "primaryHero": "5bb5dbb63e61cd4c289400e3",
+        "secondaryHero": ["5bb5dbb63e61cd4c289400d6", "5bb5dbb63e61cd4c289400d7", "5bb5dbb63e61cd4c289400d9", "5bb5dbb63e61cd4c289400df", "5bb5dbb63e61cd4c289400e1"],
+        "score": -10
+    },
+    {
+        "_id": "5bb5f38d5129ce1cbce939f0",
+        "primaryHero": "5bb5dbb63e61cd4c289400e4",
+        "secondaryHero": ["5bb5dbb63e61cd4c289400d9"],
+        "score": -10
+    },
+    {
+        "_id": "5bb5f38d5129ce1cbce939f1",
+        "primaryHero": "5bb5dbb63e61cd4c289400e5",
+        "secondaryHero": ["5bb5dbb63e61cd4c289400d0", "5bb5dbb63e61cd4c289400dd"],
+        "score": -10
+    },
+    {
+        "_id": "5bb5f38d5129ce1cbce939f2",
+        "primaryHero": "5bb5dbb63e61cd4c289400e6",
+        "secondaryHero": ["5bb5dbb63e61cd4c289400d2", "5bb5dbb63e61cd4c289400d7", "5bb5dbb63e61cd4c289400de", "5bb5dbb63e61cd4c289400e5"],
+        "score": -10
+    },
+    {
+        "_id": "5bb5f38d5129ce1cbce939f3",
+        "primaryHero": "5bb5dbb63e61cd4c289400e7",
+        "secondaryHero": ["5bb5dbb63e61cd4c289400dd", "5bb5dbb63e61cd4c289400e0", "5bb5dbb63e61cd4c289400e9"],
+        "score": -10
+    },
+    {
+        "_id": "5bb5f38d5129ce1cbce939f4",
+        "primaryHero": "5bb5dbb63e61cd4c289400e8",
+        "secondaryHero": [],
+        "score": -10
+    },
+    {
+        "_id": "5bb5f38d5129ce1cbce939f5",
+        "primaryHero": "5bb5dbb63e61cd4c289400e9",
+        "secondaryHero": ["5bb5dbb63e61cd4c289400d0", "5bb5dbb63e61cd4c289400da", "5bb5dbb63e61cd4c289400df", "5bb5dbb63e61cd4c289400e1"],
+        "score": -10
+    },
+    {
+        "_id": "5bb5f38d5129ce1cbce939f6",
+        "primaryHero": "5bb5dbb63e61cd4c289400ea",
+        "secondaryHero": ["5bb5dbb63e61cd4c289400d1", "5bb5dbb63e61cd4c289400df", "5bb5dbb63e61cd4c289400eb"],
+        "score": -10
+    },
+    {
+        "_id": "5bb5f38d5129ce1cbce939f7",
+        "primaryHero": "5bb5dbb63e61cd4c289400eb",
+        "secondaryHero": ["5bb5dbb63e61cd4c289400d0", "5bb5dbb63e61cd4c289400e3"],
+        "score": -10
+    },
+    {
+        "_id": "5bb5f38d5129ce1cbce939f8",
+        "primaryHero": "5bb5dbb63e61cd4c289400d0",
+        "secondaryHero": [],
+        "score": -20
+    },
+    {
+        "_id": "5bb5f38d5129ce1cbce939f9",
+        "primaryHero": "5bb5dbb63e61cd4c289400d1",
+        "secondaryHero": [],
+        "score": -20
+    },
+    {
+        "_id": "5bb5f38d5129ce1cbce939fa",
+        "primaryHero": "5bb5dbb63e61cd4c289400d2",
+        "secondaryHero": ["5bb5dbb63e61cd4c289400de"],
+        "score": -20
+    },
+    {
+        "_id": "5bb5f38d5129ce1cbce939fb",
+        "primaryHero": "5bb5dbb63e61cd4c289400d3",
+        "secondaryHero": ["5bb5dbb63e61cd4c289400ea"],
+        "score": -20
+    },
+    {
+        "_id": "5bb5f38d5129ce1cbce939fc",
+        "primaryHero": "5bb5dbb63e61cd4c289400d4",
+        "secondaryHero": ["5bb5dbb63e61cd4c289400e3", "5bb5dbb63e61cd4c289400de"],
+        "score": -20
+    },
+    {
+        "_id": "5bb5f38d5129ce1cbce939fd",
+        "primaryHero": "5bb5dbb63e61cd4c289400d5",
+        "secondaryHero": ["5bb5dbb63e61cd4c289400e8", "5bb5dbb63e61cd4c289400ea"],
+        "score": -20
+    },
+    {
+        "_id": "5bb5f38d5129ce1cbce939fe",
+        "primaryHero": "5bb5dbb63e61cd4c289400d6",
+        "secondaryHero": ["5bb5dbb63e61cd4c289400d3", "5bb5dbb63e61cd4c289400d5", "5bb5dbb63e61cd4c289400e6"],
+        "score": -20
+    },
+    {
+        "_id": "5bb5f38d5129ce1cbce939ff",
+        "primaryHero": "5bb5dbb63e61cd4c289400d7",
+        "secondaryHero": ["5bb5dbb63e61cd4c289400de", "5bb5dbb63e61cd4c289400e7"],
+        "score": -20
+    },
+    {
+        "_id": "5bb5f38d5129ce1cbce93a00",
+        "primaryHero": "5bb5dbb63e61cd4c289400d8",
+        "secondaryHero": ["5bb5dbb63e61cd4c289400d9"],
+        "score": -20
+    },
+    {
+        "_id": "5bb5f38d5129ce1cbce93a01",
+        "primaryHero": "5bb5dbb63e61cd4c289400d9",
+        "secondaryHero": [],
+        "score": -20
+    },
+    {
+        "_id": "5bb5f38d5129ce1cbce93a02",
+        "primaryHero": "5bb5dbb63e61cd4c289400da",
+        "secondaryHero": [],
+        "score": -20
+    },
+    {
+        "_id": "5bb5f38d5129ce1cbce93a03",
+        "primaryHero": "5bb5dbb63e61cd4c289400db",
+        "secondaryHero": ["5bb5dbb63e61cd4c289400d3", "5bb5dbb63e61cd4c289400d5"],
+        "score": -20
+    },
+    {
+        "_id": "5bb5f38d5129ce1cbce93a04",
+        "primaryHero": "5bb5dbb63e61cd4c289400dc",
+        "secondaryHero": [],
+        "score": -20
+    },
+    {
+        "_id": "5bb5f38d5129ce1cbce93a05",
+        "primaryHero": "5bb5dbb63e61cd4c289400dd",
+        "secondaryHero": [],
+        "score": -20
+    },
+    {
+        "_id": "5bb5f38d5129ce1cbce93a06",
+        "primaryHero": "5bb5dbb63e61cd4c289400de",
+        "secondaryHero": ["5bb5dbb63e61cd4c289400d9", "5bb5dbb63e61cd4c289400e7"],
+        "score": -20
+    },
+    {
+        "_id": "5bb5f38d5129ce1cbce93a07",
+        "primaryHero": "5bb5dbb63e61cd4c289400df",
+        "secondaryHero": ["5bb5dbb63e61cd4c289400de"],
+        "score": -20
+    },
+    {
+        "_id": "5bb5f38d5129ce1cbce93a08",
+        "primaryHero": "5bb5dbb63e61cd4c289400e0",
+        "secondaryHero": ["5bb5dbb63e61cd4c289400d1", "5bb5dbb63e61cd4c289400d7", "5bb5dbb63e61cd4c289400da", "5bb5dbb63e61cd4c289400de", "5bb5dbb63e61cd4c289400df"],
+        "score": -20
+    },
+    {
+        "_id": "5bb5f38d5129ce1cbce93a09",
+        "primaryHero": "5bb5dbb63e61cd4c289400e1",
+        "secondaryHero": ["5bb5dbb63e61cd4c289400da", "5bb5dbb63e61cd4c289400df"],
+        "score": -20
+    },
+    {
+        "_id": "5bb5f38d5129ce1cbce93a0a",
+        "primaryHero": "5bb5dbb63e61cd4c289400e2",
+        "secondaryHero": [],
+        "score": -20
+    },
+    {
+        "_id": "5bb5f38d5129ce1cbce93a0b",
+        "primaryHero": "5bb5dbb63e61cd4c289400e3",
+        "secondaryHero": [],
+        "score": -20
+    },
+    {
+        "_id": "5bb5f38d5129ce1cbce93a0c",
+        "primaryHero": "5bb5dbb63e61cd4c289400e4",
+        "secondaryHero": ["5bb5dbb63e61cd4c289400de", "5bb5dbb63e61cd4c289400e8"],
+        "score": -20
+    },
+    {
+        "_id": "5bb5f38d5129ce1cbce93a0d",
+        "primaryHero": "5bb5dbb63e61cd4c289400e5",
+        "secondaryHero": ["5bb5dbb63e61cd4c289400d6", "5bb5dbb63e61cd4c289400d7", "5bb5dbb63e61cd4c289400e2", "5bb5dbb63e61cd4c289400e7", "5bb5dbb63e61cd4c289400ea"],
+        "score": -20
+    },
+    {
+        "_id": "5bb5f38d5129ce1cbce93a0e",
+        "primaryHero": "5bb5dbb63e61cd4c289400e6",
+        "secondaryHero": ["5bb5dbb63e61cd4c289400d9", "5bb5dbb63e61cd4c289400e3"],
+        "score": -20
+    },
+    {
+        "_id": "5bb5f38d5129ce1cbce93a0f",
+        "primaryHero": "5bb5dbb63e61cd4c289400e7",
+        "secondaryHero": ["5bb5dbb63e61cd4c289400d3", "5bb5dbb63e61cd4c289400d5", "5bb5dbb63e61cd4c289400e8"],
+        "score": -20
+    },
+    {
+        "_id": "5bb5f38d5129ce1cbce93a10",
+        "primaryHero": "5bb5dbb63e61cd4c289400e8",
+        "secondaryHero": ["5bb5dbb63e61cd4c289400d1", "5bb5dbb63e61cd4c289400df", "5bb5dbb63e61cd4c289400e1"],
+        "score": -20
+    },
+    {
+        "_id": "5bb5f38d5129ce1cbce93a11",
+        "primaryHero": "5bb5dbb63e61cd4c289400e9",
+        "secondaryHero": ["5bb5dbb63e61cd4c289400d2", "5bb5dbb63e61cd4c289400e3"],
+        "score": -20
+    },
+    {
+        "_id": "5bb5f38d5129ce1cbce93a12",
+        "primaryHero": "5bb5dbb63e61cd4c289400ea",
+        "secondaryHero": ["5bb5dbb63e61cd4c289400de"],
+        "score": -20
+    },
+    {
+        "_id": "5bb5f38d5129ce1cbce93a13",
+        "primaryHero": "5bb5dbb63e61cd4c289400eb",
+        "secondaryHero": ["5bb5dbb63e61cd4c289400df", "5bb5dbb63e61cd4c289400e6"],
+        "score": -20
+    }
+]

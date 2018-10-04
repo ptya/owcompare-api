@@ -6,11 +6,12 @@ const scoreSchema = new mongoose.Schema({
     ref: 'Hero',
     required: 'You must supply a primary hero!',
   },
-  secondaryHero: {
-    type: mongoose.Schema.ObjectId,
-    ref: 'Hero',
-    required: 'You must supply a secondary hero!',
-  },
+  secondaryHero: [
+    {
+      type: mongoose.Schema.ObjectId,
+      ref: 'Hero',
+    },
+  ],
   score: {
     type: Number,
     min: -20,
@@ -18,4 +19,4 @@ const scoreSchema = new mongoose.Schema({
   },
 });
 
-module.exports = mongoose.model('Score', scoreSchema);
+module.exports = mongoose.model('Score', scoreSchema, 'scores');

@@ -4,7 +4,10 @@ const configs = require('../configs');
 
 mongoose.connect(
   configs.db.host,
-  { useNewUrlParser: true }
+  {
+    useNewUrlParser: true,
+    useCreateIndex: true,
+  }
 );
 
 // import models
@@ -13,21 +16,21 @@ const Score = require('../models/Score');
 
 // import files
 
-const file1 = JSON.parse(fs.readFileSync(`${__dirname}/file1.json`, 'utf-8')); // TODO:
-const file2 = JSON.parse(fs.readFileSync(`${__dirname}/file2.json`, 'utf-8')); // TODO:
+const heroes = JSON.parse(fs.readFileSync(`${__dirname}/heroes.json`, 'utf-8'));
+const scores = JSON.parse(fs.readFileSync(`${__dirname}/scores.json`, 'utf-8'));
 
 async function deleteData() {
   console.log('😢😢 Goodbye Data...');
-  await Hero.remove();
-  await Score.remove();
+  await Hero.deleteMany({});
+  await Score.deleteMany({});
   console.log('Data Deleted. To load sample data, run\n\n\t npm run sample\n\n'); // TODO: create script
   process.exit();
 }
 
 async function loadData() {
   try {
-    await Hero.insertMany(file1); // TODO:
-    await Score.insertMany(file2); // TODO:
+    await Hero.insertMany(heroes);
+    await Score.insertMany(scores);
     console.log('👍👍👍👍👍👍👍👍 Done!');
     process.exit();
   } catch (e) {

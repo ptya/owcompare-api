@@ -1,0 +1,225 @@
+[{
+        "_id": "5bb5dbb63e61cd4c289400d0",
+        "name": "Ana",
+        "slug": "ana",
+        "class": "support",
+        "avatarImg": "ana-avatar.png",
+        "mainImg": "ana-main.png"
+    },
+    {
+        "_id": "5bb5dbb63e61cd4c289400d1",
+        "name": "Bastion",
+        "slug": "bastion",
+        "class": "defense",
+        "avatarImg": "bastion-avatar.png",
+        "mainImg": "bastion-main.png"
+    },
+    {
+        "_id": "5bb5dbb63e61cd4c289400d2",
+        "name": "Brigitte",
+        "slug": "brigitte",
+        "class": "support",
+        "avatarImg": "brigitte-avatar.png",
+        "mainImg": "brigitte-main.png"
+    },
+    {
+        "_id": "5bb5dbb63e61cd4c289400d3",
+        "name": "D.Va",
+        "slug": "d-va",
+        "class": "tank",
+        "avatarImg": "d-va-avatar.png",
+        "mainImg": "d-va-main.png"
+    },
+    {
+        "_id": "5bb5dbb63e61cd4c289400d4",
+        "name": "Doomfist",
+        "slug": "doomfist",
+        "class": "offense",
+        "avatarImg": "doomfist-avatar.png",
+        "mainImg": "doomfist-main.png"
+    },
+    {
+        "_id": "5bb5dbb63e61cd4c289400d5",
+        "name": "Genji",
+        "slug": "genji",
+        "class": "offense",
+        "avatarImg": "genji-avatar.png",
+        "mainImg": "genji-main.png"
+    },
+    {
+        "_id": "5bb5dbb63e61cd4c289400d6",
+        "name": "Hanzo",
+        "slug": "hanzo",
+        "class": "defense",
+        "avatarImg": "hanzo-avatar.png",
+        "mainImg": "hanzo-main.png"
+    },
+    {
+        "_id": "5bb5dbb63e61cd4c289400d7",
+        "name": "Junkrat",
+        "slug": "junkrat",
+        "class": "defense",
+        "avatarImg": "junkrat-avatar.png",
+        "mainImg": "junkrat-main.png"
+    },
+    {
+        "_id": "5bb5dbb63e61cd4c289400d8",
+        "name": "Lucio",
+        "slug": "lucio",
+        "class": "support",
+        "avatarImg": "lucio-avatar.png",
+        "mainImg": "lucio-main.png"
+    },
+    {
+        "_id": "5bb5dbb63e61cd4c289400d9",
+        "name": "McCree",
+        "slug": "mccree",
+        "class": "offense",
+        "avatarImg": "mccree-avatar.png",
+        "mainImg": "mccree-main.png"
+    },
+    {
+        "_id": "5bb5dbb63e61cd4c289400da",
+        "name": "Mei",
+        "slug": "mei",
+        "class": "defense",
+        "avatarImg": "mei-avatar.png",
+        "mainImg": "mei-main.png"
+    },
+    {
+        "_id": "5bb5dbb63e61cd4c289400db",
+        "name": "Mercy",
+        "slug": "mercy",
+        "class": "support",
+        "avatarImg": "mercy-avatar.png",
+        "mainImg": "mercy-main.png"
+    },
+    {
+        "_id": "5bb5dbb63e61cd4c289400dc",
+        "name": "Moira",
+        "slug": "moira",
+        "class": "support",
+        "avatarImg": "moira-avatar.png",
+        "mainImg": "moira-main.png"
+    },
+    {
+        "_id": "5bb5dbb63e61cd4c289400dd",
+        "name": "Orisa",
+        "slug": "orisa",
+        "class": "tank",
+        "avatarImg": "orisa-avatar.png",
+        "mainImg": "orisa-main.png"
+    },
+    {
+        "_id": "5bb5dbb63e61cd4c289400de",
+        "name": "Pharah",
+        "slug": "pharah",
+        "class": "offense",
+        "avatarImg": "pharah-avatar.png",
+        "mainImg": "pharah-main.png"
+    },
+    {
+        "_id": "5bb5dbb63e61cd4c289400df",
+        "name": "Reaper",
+        "slug": "reaper",
+        "class": "offense",
+        "avatarImg": "reaper-avatar.png",
+        "mainImg": "reaper-main.png"
+    },
+    {
+        "_id": "5bb5dbb63e61cd4c289400e0",
+        "name": "Reinhardt",
+        "slug": "reinhardt",
+        "class": "tank",
+        "avatarImg": "reinhardt-avatar.png",
+        "mainImg": "reinhardt-main.png"
+    },
+    {
+        "_id": "5bb5dbb63e61cd4c289400e1",
+        "name": "Roadhog",
+        "slug": "roadhog",
+        "class": "tank",
+        "avatarImg": "roadhog-avatar.png",
+        "mainImg": "roadhog-main.png"
+    },
+    {
+        "_id": "5bb5dbb63e61cd4c289400e2",
+        "name": "Soldier: 76",
+        "slug": "soldier-76",
+        "class": "offense",
+        "avatarImg": "soldier-76-avatar.png",
+        "mainImg": "soldier-76-main.png"
+    },
+    {
+        "_id": "5bb5dbb63e61cd4c289400e3",
+        "name": "Sombra",
+        "slug": "sombra",
+        "class": "offense",
+        "avatarImg": "sombra-avatar.png",
+        "mainImg": "sombra-main.png"
+    },
+    {
+        "_id": "5bb5dbb63e61cd4c289400e4",
+        "name": "Symmetra",
+        "slug": "symmetra",
+        "class": "support",
+        "avatarImg": "symmetra-avatar.png",
+        "mainImg": "symmetra-main.png"
+    },
+    {
+        "_id": "5bb5dbb63e61cd4c289400e5",
+        "name": "Törbjorn",
+        "slug": "torbjorn",
+        "class": "defense",
+        "avatarImg": "torbjorn-avatar.png",
+        "mainImg": "torbjorn-main.png"
+    },
+    {
+        "_id": "5bb5dbb63e61cd4c289400e6",
+        "name": "Tracer",
+        "slug": "tracer",
+        "class": "offense",
+        "avatarImg": "tracer-avatar.png",
+        "mainImg": "tracer-main.png"
+    },
+    {
+        "_id": "5bb5dbb63e61cd4c289400e7",
+        "name": "Widowmaker",
+        "slug": "widowmaker",
+        "class": "defense",
+        "avatarImg": "widowmaker-avatar.png",
+        "mainImg": "widowmaker-main.png"
+    },
+    {
+        "_id": "5bb5dbb63e61cd4c289400e8",
+        "name": "Winston",
+        "slug": "winston",
+        "class": "tank",
+        "avatarImg": "winston-avatar.png",
+        "mainImg": "winston-main.png"
+    },
+    {
+        "_id": "5bb5dbb63e61cd4c289400e9",
+        "name": "Wrecking Ball",
+        "slug": "wrecking-ball",
+        "class": "tank",
+        "avatarImg": "wrecking ball-avatar.png",
+        "mainImg": "wrecking ball-main.png"
+    },
+    {
+        "_id": "5bb5dbb63e61cd4c289400ea",
+        "name": "Zarya",
+        "slug": "zarya",
+        "class": "tank",
+        "avatarImg": "zarya-avatar.png",
+        "mainImg": "zarya-main.png"
+    },
+    {
+        "_id": "5bb5dbb63e61cd4c289400eb",
+        "name": "Zenyatta",
+        "slug": "zenyatta",
+        "class": "support",
+        "avatarImg": "zenyatta-avatar.png",
+        "mainImg": "zenyatta-main.png"
+    }
+]
