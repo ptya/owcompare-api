@@ -1,7 +1,11 @@
+#!/usr/bin/env node
+
 const mongoose = require('mongoose');
 const http = require('http');
 const debug = require('debug')('server');
-const { db, port } = require('../configs');
+const app = require('../app');
+const { db } = require('../configs');
+let { port } = require('../configs');
 
 // Connect to our Database and handle any bad connections
 mongoose.connect(
@@ -16,12 +20,31 @@ mongoose.connection.on('error', err => {
   console.error(`🙅 🚫 🙅 🚫 🙅 🚫 🙅 🚫 → ${err.message}`);
 });
 
+// Normalize a port into a number, string, or false
+function normalizePort(val) {
+  const normalizedPort = parseInt(val, 10);
+
+  if (Number.isNaN(normalizedPort)) {
+    // named pipe
+    return val;
+  }
+
+  if (normalizedPort >= 0) {
+    // normalizedPort number
+    return normalizedPort;
+  }
+
+  return false;
+}
+
+// Get port from environment and store in Express
+port = normalizePort(port);
+
 // import all of our models
 require('../models/Hero');
 require('../models/Score');
 
 // Start our app!
-const app = require('../app');
 
 // Express configuration.
 app.set('port', port);
