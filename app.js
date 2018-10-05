@@ -28,17 +28,7 @@ app.use(compression());
 app.use(helmet());
 
 // enable CORS - Cross Origin Resource Sharing
-const whitelist = ['http://localhost', 'http://127.0.0.1'];
-const corsOptions = {
-  origin(origin, callback) {
-    if (whitelist.indexOf(origin) !== -1) {
-      callback(null, true);
-    } else {
-      callback(new Error('Not allowed by CORS'));
-    }
-  },
-};
-app.use(cors(corsOptions));
+app.use(cors());
 
 // app.use(
 //   session({
