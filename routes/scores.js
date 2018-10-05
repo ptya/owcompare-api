@@ -1,10 +1,12 @@
 const express = require('express');
+const { sanitizeParam } = require('express-validator/filter');
+
 const Hero = require('../models/Hero');
 const Score = require('../models/Score');
 
 const router = express.Router();
 
-router.get('/:hero', async (req, res, next) => {
+router.get('/:hero', sanitizeParam('hero').trim(), async (req, res, next) => {
   try {
     const hero = await Hero.findOne({ slug: req.params.hero });
     if (!hero) {
