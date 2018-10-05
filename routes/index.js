@@ -1,20 +1,14 @@
 const express = require('express');
 
 const router = express.Router();
-const { sanitizeParam } = require('express-validator/filter');
-const heroController = require('../controllers/heroController');
-const scoreController = require('../controllers/scoreController');
-const { catchErrors } = require('../middlewares/error');
 const tester = require('./tester');
+const heroes = require('./heroes');
+const hero = require('./hero');
+const scores = require('./scores');
 
 router.use('/tester', tester);
-
-router.get('/api/heroes', catchErrors(heroController.getHeroes));
-router.get('/api/hero/:hero', sanitizeParam('hero').trim(), catchErrors(heroController.getHero));
-router.get(
-  '/api/scores/:hero',
-  sanitizeParam('hero').trim(),
-  catchErrors(scoreController.getScores)
-);
+router.use('/api/heroes', heroes);
+router.use('/api/hero', hero);
+router.use('/api/scores', scores);
 
 module.exports = router;
