@@ -6,6 +6,12 @@ exports.notFound = (req, res, next) => {
   next(createError(404));
 };
 
+// Catch Errors handler for async/await
+exports.catchErrors = fn =>
+  function(req, res, next) {
+    return fn(req, res, next).catch(next);
+  };
+
 // Error handler
 exports.handler = (err, req, res, next) => {
   const statusCode = err.status || err.statusCode || 500;
